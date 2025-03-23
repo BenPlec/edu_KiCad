@@ -15,5 +15,5 @@
 | version | minor code | Revision |  
 :---:|:---:|:---
 4 | 00 | PLECKO 탬플릿 적용 <br> (이전 최종 버전 3.14)
-  | 02 | 2025년 1Q 업데이트 <br> PCB Editor 그룹 선택, Pin Library 등 업데이트
+4 | 02 | 2025년 1Q 업데이트 <br> PCB Editor 그룹 선택, Pin Library 등 업데이트
 
