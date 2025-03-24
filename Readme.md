@@ -7,7 +7,7 @@
 - PLECKO의 Academy 지원 규정에 따라 학교/연구소를 대상으로 교육 후 제한적인 상담이 가능합니다.
 - KiCad 기본 사용 방법이 기술되어 있으며, KiCad에 의한 문제 발생 사항은 KiCad Forum을 참고하시길 바랍니다.
 - <font color='gray'>필요에 작성되는 자료이기에 정기적인 자료 업데이트는 이루어지지 않습니다.</font>   
-- [<i>KiCad 교육자료</i>](/PT_01B_How%20to%20use%20KiCad%20v7_v4.00.pdf)
+- [<i>KiCad 교육자료</i>](/PT_01B_How%20to%20use%20KiCad%20v7_v4.02.pdf)
 
 ## Version info   
 4 이전 버전 기록은 제공하지 않습니다.
